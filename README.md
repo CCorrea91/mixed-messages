@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Message generator which outputs random jokes everytime the user runs the program.
+Message generator which outputs random jokes using an array of joke parts.
 
 ## Technologies
 
 * Javascript ES9
-* Other languages maybe?
+* Node
